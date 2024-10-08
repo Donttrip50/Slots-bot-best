@@ -1,0 +1,12 @@
+{
+    "token": "Put_token_here",
+    "guildId": "server_id",
+    "clientId": "bot_id",
+    "staffRoleId": "staff_role_id",
+    "slotRules": "Put your rules here",
+    "ownerId": "owner_id",
+    "categoryId": "slot_category_Id",
+    "embedcolour": "#0099ff",
+    "logsChannelId": "logs_channel_id",
+    "customStatus": ".gg/t4a"
+}
