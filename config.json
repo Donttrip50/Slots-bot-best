@@ -1,12 +1,12 @@
 {
-    "token": "Put_token_here",
-    "guildId": "server_id",
-    "clientId": "bot_id",
-    "staffRoleId": "staff_role_id",
-    "slotRules": "Put your rules here",
-    "ownerId": "owner_id",
-    "categoryId": "slot_category_Id",
+    "token": "MTI5ODgyNzY4ODAzOTAyNjcyOA.G4Dp0G.wTmMBSCWwrKvumyU7gcNOfKfWmLLvQ8gGdME6s",
+    "guildId": "1303532100137521194",
+    "clientId": "1298827688039026728",
+    "staffRoleId": "1304561231369080872",
+    "slotRules": "soon",
+    "ownerId": "1281968130402553909",
+    "categoryId": "1304558761725399162",
     "embedcolour": "#0099ff",
-    "logsChannelId": "logs_channel_id",
-    "customStatus": ".gg/t4a"
+    "logsChannelId": "1306055830725984287",
+    "customStatus": ".gg/22Slots soon"
 }
