@@ -19,7 +19,7 @@ function printLogo() {
 ███████║███████╗╚██████╔╝   ██║       ██████╔╝╚██████╔╝   ██║   
 ╚══════╝╚══════╝ ╚═════╝    ╚═╝       ╚═════╝  ╚═════╝    ╚═╝   
 
-                By S_Vi2eR     
+                By t4a     discord.gg/t4a
                                                                 
     `);
 }
@@ -85,4 +85,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login("Your_Bot_token");
+client.login("Your_bot_token");
